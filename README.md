@@ -1,6 +1,8 @@
 # COMP301 Fall22 Project 4
 
 #### Description
+Koc University Programming Language Concepts class project.
+
 Expanding EREF language to support vector and stack data structures, with operations:
 - newvector(length, value) initializes a vector of size 'length' with the value 'value'.
 - update-vector(vec, index, value) updates the value of the vector 'vec' at index 'index' by value 'value'.
